@@ -1,0 +1,30 @@
+.lunch-card-image {
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.lunch-card-offers {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-left: 130px;
+    width: 83px;
+    position: relative;
+    bottom: 120px;
+}
+
+.lunch-card-amount {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: #FFFFFF;
+    margin-left: 130px;
+    position: relative;
+    bottom: 118px;
+}

@@ -1,0 +1,67 @@
+.header-card {
+    width: 300px;
+    height: 366px;
+    margin: 40px;
+    padding: 23px;
+    border: 1px solid #8080802b;
+}
+
+
+.header-card-1 {
+    margin-bottom: 12px;
+}
+
+.biriyani-name {
+    margin: 10px;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.biriyani-south-indian {
+    margin: 10px;
+    font-family: sans-serif;
+    font-size: 13px;
+    color: gray;
+    margin-bottom: 20px;
+}
+
+.star-box {
+    width: 38px;
+    height: 23px;
+    background-color: orange;
+    margin: 10px;
+    color: white;
+    line-height: 24px;
+    margin-bottom: -18px;
+}
+
+.biriyani-time {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 13px;
+    color: gray;
+    margin-bottom: -14px;
+    margin-right: 46px;
+}
+.biriyani-amount {
+    font-family: sans-serif;
+    font-size: 13px;
+    color: gray;
+    margin-bottom: 23px;
+    margin-left: 194px;
+    width: 94px;
+}
+.line {
+    border: 0.5px solid rgb(158 145 145 / 21%);
+    margin-bottom: 28px;
+
+}
+.biriyani-offer {
+    font-family: sans-serif;
+    font-size: 15px;
+    color: #730a0a;
+    margin-left: 35px;
+}
+
+

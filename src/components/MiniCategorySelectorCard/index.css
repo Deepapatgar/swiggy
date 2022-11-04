@@ -1,0 +1,31 @@
+.mini-category-image {
+    margin-left: 20px;
+}
+
+.mini-category-content-names {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(0, 0, 0, 0.56);
+    width: 0px;
+
+}
+
+.mini-category-content-momos {
+    margin-left: 23px;
+}
+
+.mini-category-content-vegetarian {
+    margin-left: 14px;
+}
+
+.mini-category-content-south-indian {
+    margin-left: 28px;
+}
+
+.mini-category-content-egg-roll {
+    margin-left: 33px;
+}
+
