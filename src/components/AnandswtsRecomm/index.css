@@ -1,0 +1,11 @@
+.green-icon{
+    display: flex;
+    justify-Content: center;
+    margin-top: 15px;
+    border-radius: 50px;
+}
+.anandswts-title{
+    display: flex;
+    font-size: 50px;
+    margin-left: 100px;
+}

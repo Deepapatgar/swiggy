@@ -1,0 +1,28 @@
+.specialization-card {
+    margin: 10px;
+    padding: 10px;
+    border: "1px solid #EFECEC";
+    width: 115.79px;
+    height: 90px;
+    background: #FFFFFF;
+    border: 1px solid #EFECEC;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.specialization-icon {
+    display: flex;
+    justify-Content: center;
+    margin-top: 15px;
+
+}
+
+.specialization-content {
+    text-Align: center;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    margin-top: 4px;
+}
