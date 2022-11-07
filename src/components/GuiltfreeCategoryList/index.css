@@ -1,0 +1,21 @@
+.guiltfree-categorylist-image {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.guiltfree-categorylist-names {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(0, 0, 0, 0.56);
+}
+
+.guiltfree-categorylist-title {
+    margin-left: 24px;
+}
+
+.guiltfree-categorylist-title2 {
+    margin-left: 16px;
+}

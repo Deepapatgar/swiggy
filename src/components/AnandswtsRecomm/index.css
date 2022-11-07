@@ -1,11 +1,124 @@
-.green-icon{
-    display: flex;
-    justify-Content: center;
-    margin-top: 15px;
-    border-radius: 50px;
-}
 .anandswts-title{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0b0b0b;
+    position: relative;
+    top: 56px;
+    margin-left: 16px;
+}
+.greenfood-icon{
     display: flex;
-    font-size: 50px;
-    margin-left: 100px;
+    justify-Content: left;
+    margin-left: 11px;
+}
+.anandswts-title2{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0b0b0b;
+    position: relative;
+    top: 39px;
+    margin-left: 16px;
+}
+.box-header{
+    margin: 10px;
+    padding: 10px;
+    border: "1px solid #EFECEC";
+    width: 130px;
+    height: 130px;
+    position: relative;
+    margin-left: 186px;
+    bottom: 136px;
+    border-radius: 13px;
+    background: #FFFFFF;
+    border: 1px solid #EFECEC;
+    box-shadow: 0px 0px 2px rgb(0 0 0 / 25%)
+}
+.motichor-image{
+    display: flex;
+    position: relative;
+    right: 6px;
+    bottom: 6px;
+}
+.add-button{
+    margin: 11px;
+    padding: 10px;
+    border: "1px solid #EFECEC";
+    width: 86px;
+    height: 27px;
+    margin-left: 11px;
+    position: relative;
+    bottom: 34px;
+    text-align: center;
+    font-size: 21px;
+    font-weight: 700;
+    color: green;
+    background: #FFFFFF;
+    border: 1px solid #EFECEC;
+    border-radius: 13px;
+    box-shadow: 0px 0px 2px 0px rgb(0 0 0 / 25%);
+}
+.anandswts-title3{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #eda22a;
+    position: relative;
+    top: 82px;
+    margin-left: 66px;
+}
+.anandswts-title4{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0b0b0b;
+    position: relative;
+    top: 60px;
+    margin-left: 96px;
+}
+.anandswts-title5{
+    width: 103px;
+    height: 31px;
+    margin-left: 11px;
+    position: relative;
+    top: 75px;
+    text-align: center;
+    font-size: 15px;
+    line-height: 28px;
+    font-weight: 600;
+    color: #9d9d9d;
+    background: #FFFFFF;
+    border: 1px solid #EFECEC;
+    border-radius: 35px;
+    box-shadow: 0px 0px 2px 0px rgb(0 0 0 / 25%);
+}
+.anandsets-title6{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0b0b0b;
+    position: relative;
+    bottom: 26px;
+    margin-left: 16px;
+}
+.add-text{
+    color: #9d9d9d;
+    font-style: normal;
+    /* font-weight: 500; */
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    bottom: 39px;
+    margin-left: 22px;
+}
+.Star-image1{
+    position: absolute;
+    top: 148px;
+    left: 30px;
 }

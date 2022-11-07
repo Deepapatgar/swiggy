@@ -1,0 +1,92 @@
+.restaurant-card {
+    width: 395px;
+    height: 110px;
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.restaurant-content-name {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+    margin-top: -100px;
+    margin-left: -24px;
+
+}
+.restaurant-like-icon {
+    text-align: right;
+    margin-right: 20px;
+    margin-top: -23px;
+
+}
+.restaurant-star-icon {
+    text-align: center;
+    margin-right: 106px;
+    margin-top: 10px;
+}
+
+.restaurant-time {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: -20px;
+
+}
+
+.restaurant-address {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 13px;
+    color: #313131;
+    margin-right: 34px;
+    text-align: center;
+    margin-top: 12px;
+
+}
+
+.box {
+    background: #EC8A55;
+    border: 1px solid #EC8A55;
+    border-radius: 54px;
+    width: 69.76px;
+    height: 24px;
+    float: right;
+    margin-top: -18px;
+    margin-right: 16px;
+    color: #FFFFFF;
+    display: flex;
+    line-height: 20px;
+    justify-content: space-between;
+}
+
+.minus {
+    margin-left: 7px;
+}
+
+.number {
+    margin-left: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    margin-top: 1px;
+
+}
+
+.plus {
+    margin-right: 6px;
+    margin-top: 1px;
+}
